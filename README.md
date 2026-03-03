@@ -3,11 +3,12 @@ Classification Model to classify various diseases in potato, tomato, and bell pe
 
 
 ## Models Included
-Custom Model: Custom model trained from scratch.
+- Custom CNN Model: A CNN built and trained from scratch for plant disease detection. Used as a baseline model without transfer learning.
+- ResNet18: Based on ResNet-18, pre-trained on ImageNet and fine-tuned. Uses residual connections for better deep learning performance.
+- VGG16: Based on VGG16, pre-trained and fine-tuned. Known for its deep and simple 3×3 convolution structure.
+- EfficientNetB0: Based on EfficientNetB0, pre-trained and fine-tuned. Uses compound scaling for high accuracy with fewer parameters.
 
-ResNet18: Pre-trained and fine-tuned for plant disease detection.
 
-VGG16: Another CNN model trained for the same task.
 
 
 ## HomePage
