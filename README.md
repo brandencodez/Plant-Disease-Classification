@@ -1,5 +1,9 @@
-# Plant-Disease-Classification
-Classification Model to classify various diseases in potato, tomato, and bell pepper crops using a Convolutional Neural Network (CNN).
+# 🌱 AgroVision
+An AI-powered Computer Vision solution for early detection of diseases in potato, tomato, and bell pepper crops using deep learning.
+
+AgroVision leverages EfficientNetB0 via TensorFlow.js for real-time, high-accuracy disease classification in the browser. Built as a Progressive Web App (PWA) using React, it allows farmers to upload crop images or use live webcam input for instant diagnosis — delivering a confidence score, disease cause, precautions, and treatment guidance.
+
+Currently supporting Hindi and Marathi, with plans to expand to more languages, the solution ensures farmers can easily understand results in their regional language, take timely action, prevent crop loss, and make better decisions for healthy yields.
 
 
 ## Models Included
